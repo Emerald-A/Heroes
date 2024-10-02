@@ -1,0 +1,62 @@
+[
+    {
+        "comic": "Marvel",
+        "character": "Ironman",
+        "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772155/Iron_Man_1_zvsmqt.png"
+    },
+    {
+        "comic": "Marvel",
+        "character": "Black Panther",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772153/Black_Panther_ecef8c.png"
+    },
+    {
+        "comic": "Marvel",
+        "character": "Spider Man",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772160/Spiderman_1_ueco3l.png"
+    },
+    {
+        "comic": "Marvel",
+        "character": "Hulk",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772154/Incredile_hulk_1_lpaxgt.png"
+    },
+    {
+        "comic": "DC",
+        "character": "Batman",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772169/batman_logo-removebg-preview_1_j8fpbd.png"
+    },
+    {
+        "comic": "DC",
+        "character": "The flash",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772163/The_flash_classic_logo_1_owsovb.png"
+    },
+    {
+        "comic": "DC",
+        "character": "Wonder Woman",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772166/wonder_woman-removebg-preview_2_1_bofp33.svg"
+    },
+    {
+        "comic": "DC",
+        "character": "Hawk Girl",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772174/Hawkgirl_logo-removebg-preview_1_xtwqbj.svg"
+    },
+    {
+        "comic": "DC",
+        "character": "Super Man",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772162/Superman_shield_1_kocu4i.svg"
+    },
+    {
+        "comic": "DC",
+        "character": "Aquaman",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772168/Aquaman_logo-removebg-preview_1_an0lmc.svg"
+    },
+    {
+        "comic": "DC",
+        "character": "Green Lantern",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772172/green_lantern_logo-removebg-preview_1_jfvzvp.svg"
+    },
+    {
+        "comic": "DC",
+        "character": "Shazam",
+         "iconLink": "https://res.cloudinary.com/dg46j6kmb/image/upload/v1726772158/Shazam_1_dvqmi3.png"
+    }
+]

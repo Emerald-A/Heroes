@@ -1,0 +1,11 @@
+[
+    {
+        "username": "admin",
+        "password": "dataSeed#4578-ig",
+        "email": "adegbitedave@gmail.com",
+        "firstName": "David",
+        "lastName": "Adegbite",    
+        "nationality": "Nigerian",
+        "avatarLink": "string"
+      }
+]

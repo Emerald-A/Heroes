@@ -1,0 +1,56 @@
+{
+  "name": "heros-game-backend",
+  "version": "1.0.0",
+  "main": "src/server.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Brave-Redemptive/heros-game-backend-.git"
+  },
+  "author": "Usheninte Dangana <ninte@tuta.io>",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "start": "NODE_ENV=production ts-node src/server.ts",
+    "dev": "ts-node-dev --respawn --transpile-only src/server.ts"
+  },
+  "dependencies": {
+    "@types/bcrypt": "^5.0.2",
+    "@types/body-parser": "^1.19.5",
+    "@types/cookie-parser": "^1.4.7",
+    "@types/cors": "^2.8.17",
+    "@types/express": "^4.17.21",
+    "@types/express-fileupload": "^1.5.1",
+    "@types/express-useragent": "^1.0.5",
+    "@types/hpp": "^0.2.6",
+    "@types/jsonwebtoken": "^9.0.7",
+    "@types/morgan": "^1.9.9",
+    "@types/node": "^22.5.1",
+    "bcrypt": "^5.1.1",
+    "body-parser": "^1.20.2",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "express-fileupload": "^1.5.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-useragent": "^1.0.15",
+    "fetch": "^1.1.0",
+    "helmet": "^7.1.0",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.5.3",
+    "morgan": "^1.10.0",
+    "node": "^22.9.0",
+    "package.json": "^2.0.1",
+    "slugify": "^1.6.6",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.5.4"
+  },
+  "bugs": {
+    "url": "https://github.com/Brave-Redemptive/heros-game-backend-/issues"
+  },
+  "homepage": "https://github.com/Brave-Redemptive/heros-game-backend-#readme",
+  "description": ""
+}
